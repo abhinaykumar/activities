@@ -457,7 +457,7 @@ figure {
  * 7.0 - Header Search Bar
  */
 
-#header-search-box {
+/* #header-search-box {
 	position: absolute;
 	right: 38px;
 	top: 8px;
@@ -470,9 +470,9 @@ figure {
 	min-width: 200px;
 	right: -6px;
 	top: 33px;
-}
+} */
 
-#search-menu span {
+/* #search-menu span {
 	font-size: 20px;
 }
 
@@ -510,7 +510,7 @@ figure {
     line-height: 0;
     position: relative;
     top: -6px;
-}
+} */
 
 /**
  * 8.0 - Mobile Menu
